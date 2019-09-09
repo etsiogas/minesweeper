@@ -4,7 +4,7 @@ My simple version of the classic minesweeper game
 ## Requirements/dependencies
 - Ubuntu Bionic Beaver
 - python3
-- pygame for python3
+- pygame
 
 ## Instructions for Use
 ```
